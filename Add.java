@@ -1,4 +1,7 @@
-public class add {
+import java.util.*;
+import java.io.*;
+
+public class Add {
 
    public static void main(String[] args) {
         
