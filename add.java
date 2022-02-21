@@ -1,4 +1,4 @@
-public class AddTwoNumbers {
+public class add {
 
    public static void main(String[] args) {
         
@@ -7,4 +7,4 @@ public class AddTwoNumbers {
 
       System.out.println("Sum of these numbers: "+sum);
    }
-}[A[A[A[A[A[A[A[A[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[add[B[B[B[B[B[B[B[B[B[B
+}
